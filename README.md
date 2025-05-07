@@ -3,7 +3,7 @@
 This is a simple Node.js backend built with Express, MongoDB, and JWT for handling basic authentication.  
 The goal is to keep things clean, understandable, and easy to expand as the project grows.
 
-Right now it's just a starting point — new features and improvements will be added step by step.
+While working on this project, I felt like I was scribbling in a personal notebook 📝
 
 ## 🚀 Features (so far)
 
